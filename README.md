@@ -10,5 +10,5 @@
 
 ### Homepage Designs
 #### Homepage desktop design
-![Homepage Desktop UI design](/screenshots/homepage_desktop.png)
+![Homepage Desktop UI design](/images/images/homepage_desktop.png)
 
